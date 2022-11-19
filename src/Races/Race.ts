@@ -1,6 +1,7 @@
 abstract class Race {
   private _name;
   private _dexterity;
+
   constructor(
     name: string,
     dexterity: number,
