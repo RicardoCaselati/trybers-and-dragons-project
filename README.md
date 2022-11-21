@@ -1,5 +1,5 @@
 <h1 align="center">TrybeSmith</h1>
-<h3 align="center">:dragon_face::bow_and_arrow::crossed_swords::magic_wand::shield:</h3>
+<h3 align="center">:dragon_face: :bow_and_arrow: :crossed_swords: :magic_wand: :shield:</h3>
 </br>
 </br>
 </br>
